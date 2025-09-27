@@ -1,0 +1,7 @@
+{
+  "name": "yourname/google-indexing-bulk",
+  "description": "Bulk Indexing plugin for WordPress using Google Indexing API and sitemap ping fallback",
+  "require": {
+    "google/apiclient": "^2.13"
+  }
+}
