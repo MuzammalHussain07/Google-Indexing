@@ -1,0 +1,6 @@
+/vendor/
+/node_modules/
+/.env
+/service-account.json   # IMPORTANT: don't commit your service account key
+.DS_Store
+*.log
